@@ -30,6 +30,7 @@ local plugins = {
   "scrollbar",
   "telescope",
   "toggleterm",
+  "trouble",
   "ufo",
   "which-key",
   "wilder",
